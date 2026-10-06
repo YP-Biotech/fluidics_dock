@@ -1,0 +1,12 @@
+# sigma project config — holds worker/MCP env, keep it local
+sigma.toml
+
+# macOS
+.DS_Store
+
+# FreeCAD autosave backups
+*.FCBak
+*.FCBak1
+
+# Superseded revisions, kept locally only
+legacy/
