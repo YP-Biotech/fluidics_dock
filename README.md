@@ -14,3 +14,7 @@ FreeCAD model of the fluidics dock (current revision: **v4**).
 ## Requirements
 
 [FreeCAD](https://www.freecad.org/) to open the `.FCStd` file.
+
+# License
+
+Distributed under MIT License. See `LICENSE` for more.
